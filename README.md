@@ -1,6 +1,6 @@
 # Hola Mundo. 👋
 
-`Hi! My name Moises, alias=macmoi. I'm a Computer Engineer from Venezuela (Latam). Currently i'm working as DevOps Engineer creating new stuff and great tools for developers`
+`Hi! My name Moises, alias=macmoi. I'm a Computer Engineer Currently i'm working as DevOps Engineer creating new stuff and great tools for developers`
 
 ## The stuff that i use
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
